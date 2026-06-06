@@ -1,0 +1,6 @@
+project_id,deployment_frequency,lead_time,cfr,mttr
+P001,5,12,18,2
+P002,20,4,3,0.5
+P003,15,5,4,0.2
+P004,8,9,10,1
+P005,25,3,2,0.1

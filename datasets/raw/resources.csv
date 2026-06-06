@@ -1,0 +1,26 @@
+resource_id,name,skills,capacity_pct,team
+R001,Priya Sharma,"Python,FastAPI,Neo4j",100,Backend
+R002,Arnav Kumar,"Python,FastAPI,SQL",100,Backend
+R003,John Mathew,"Streamlit,React,UI",100,Frontend
+R004,Aisha Khan,"Machine Learning,Python,Data Science",100,AI
+R005,Rahul Nair,"DevOps,Docker,Kubernetes",100,DevOps
+R006,Neha Gupta,"Python,Testing,QA",100,QA
+R007,Vikram Patel,"SQL,Data Engineering,ETL",100,Data
+R008,Sneha Iyer,"Streamlit,Python,Frontend",100,Frontend
+R009,Aditya Rao,"Neo4j,Cypher,Python",100,Backend
+R010,Kavya Menon,"Machine Learning,NLP,Python",100,AI
+R011,Rohan Singh,"Testing,Automation,Selenium",100,QA
+R012,Meera Das,"Data Engineering,SQL,Python",100,Data
+R013,Arjun Verma,"Docker,CI/CD,DevOps",100,DevOps
+R014,Pooja Sharma,"Frontend,UI,Streamlit",100,Frontend
+R015,Manish Gupta,"Python,FastAPI,Backend",100,Backend
+R016,Ananya Reddy,"NLP,LLM,Python",100,AI
+R017,Deepak Kumar,"QA,Testing,Automation",100,QA
+R018,Ritika Jain,"SQL,ETL,Data Engineering",100,Data
+R019,Sanjay Roy,"Docker,Kubernetes,AWS",100,DevOps
+R020,Nikhil Shah,"Python,Neo4j,Backend",100,Backend
+R021,Swathi Krishnan,"Frontend,Streamlit,Python",100,Frontend
+R022,Harish Nair,"Machine Learning,Python,TensorFlow",100,AI
+R023,Divya Menon,"QA,Automation,Testing",100,QA
+R024,Kiran Patel,"SQL,Python,Data Engineering",100,Data
+R025,Amit Joshi,"AWS,DevOps,Docker",100,DevOps

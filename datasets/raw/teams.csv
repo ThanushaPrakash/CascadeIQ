@@ -1,0 +1,7 @@
+team_id,name,velocity_p50,dora_lead_time_days,dora_change_failure_rate,dora_deployment_frequency,mttr_hours
+T001,Backend,42,2.1,0.04,25,0.8
+T002,Frontend,38,1.8,0.03,22,0.7
+T003,AI,25,4.0,0.06,8,1.5
+T004,Data,35,3.2,0.05,12,1.2
+T005,QA,40,1.5,0.02,20,0.5
+T006,DevOps,45,1.0,0.01,30,0.3

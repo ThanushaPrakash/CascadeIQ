@@ -1,0 +1,151 @@
+task_id,project_id,task_name,completion_pct,duration_optimistic,duration_likely,duration_pessimistic,float_days,on_critical_path
+P001_T01,P001,Requirements Gathering,100,2,3,5,0,True
+P001_T02,P001,Solution Design,100,3,5,8,0,True
+P001_T03,P001,Architecture Approval,90,2,4,6,0,True
+P001_T04,P001,Development,60,5,10,15,0,True
+P001_T05,P001,Integration,40,3,5,9,3,False
+P001_T06,P001,Testing,20,2,4,8,5,False
+P001_T07,P001,Security Review,0,2,3,6,4,False
+P001_T08,P001,UAT,0,3,5,7,6,False
+P001_T09,P001,Deployment,0,1,2,4,8,False
+P001_T10,P001,Go Live,0,1,2,3,10,False
+P002_T01,P002,Requirements Gathering,100,2,3,5,0,True
+P002_T02,P002,Solution Design,100,3,5,8,0,True
+P002_T03,P002,Architecture Approval,90,2,4,6,0,True
+P002_T04,P002,Development,60,5,10,15,0,True
+P002_T05,P002,Integration,40,3,5,9,3,False
+P002_T06,P002,Testing,20,2,4,8,5,False
+P002_T07,P002,Security Review,0,2,3,6,4,False
+P002_T08,P002,UAT,0,3,5,7,6,False
+P002_T09,P002,Deployment,0,1,2,4,8,False
+P002_T10,P002,Go Live,0,1,2,3,10,False
+P003_T01,P003,Requirements Gathering,100,2,3,5,0,True
+P003_T02,P003,Solution Design,100,3,5,8,0,True
+P003_T03,P003,Architecture Approval,90,2,4,6,0,True
+P003_T04,P003,Development,60,5,10,15,0,True
+P003_T05,P003,Integration,40,3,5,9,3,False
+P003_T06,P003,Testing,20,2,4,8,5,False
+P003_T07,P003,Security Review,0,2,3,6,4,False
+P003_T08,P003,UAT,0,3,5,7,6,False
+P003_T09,P003,Deployment,0,1,2,4,8,False
+P003_T10,P003,Go Live,0,1,2,3,10,False
+P004_T01,P004,Requirements Gathering,100,2,3,5,0,True
+P004_T02,P004,Solution Design,100,3,5,8,0,True
+P004_T03,P004,Architecture Approval,90,2,4,6,0,True
+P004_T04,P004,Development,60,5,10,15,0,True
+P004_T05,P004,Integration,40,3,5,9,3,False
+P004_T06,P004,Testing,20,2,4,8,5,False
+P004_T07,P004,Security Review,0,2,3,6,4,False
+P004_T08,P004,UAT,0,3,5,7,6,False
+P004_T09,P004,Deployment,0,1,2,4,8,False
+P004_T10,P004,Go Live,0,1,2,3,10,False
+P005_T01,P005,Requirements Gathering,100,2,3,5,0,True
+P005_T02,P005,Solution Design,100,3,5,8,0,True
+P005_T03,P005,Architecture Approval,90,2,4,6,0,True
+P005_T04,P005,Development,60,5,10,15,0,True
+P005_T05,P005,Integration,40,3,5,9,3,False
+P005_T06,P005,Testing,20,2,4,8,5,False
+P005_T07,P005,Security Review,0,2,3,6,4,False
+P005_T08,P005,UAT,0,3,5,7,6,False
+P005_T09,P005,Deployment,0,1,2,4,8,False
+P005_T10,P005,Go Live,0,1,2,3,10,False
+P006_T01,P006,Requirements Gathering,100,2,3,5,0,True
+P006_T02,P006,Solution Design,100,3,5,8,0,True
+P006_T03,P006,Architecture Approval,90,2,4,6,0,True
+P006_T04,P006,Development,60,5,10,15,0,True
+P006_T05,P006,Integration,40,3,5,9,3,False
+P006_T06,P006,Testing,20,2,4,8,5,False
+P006_T07,P006,Security Review,0,2,3,6,4,False
+P006_T08,P006,UAT,0,3,5,7,6,False
+P006_T09,P006,Deployment,0,1,2,4,8,False
+P006_T10,P006,Go Live,0,1,2,3,10,False
+P007_T01,P007,Requirements Gathering,100,2,3,5,0,True
+P007_T02,P007,Solution Design,100,3,5,8,0,True
+P007_T03,P007,Architecture Approval,90,2,4,6,0,True
+P007_T04,P007,Development,60,5,10,15,0,True
+P007_T05,P007,Integration,40,3,5,9,3,False
+P007_T06,P007,Testing,20,2,4,8,5,False
+P007_T07,P007,Security Review,0,2,3,6,4,False
+P007_T08,P007,UAT,0,3,5,7,6,False
+P007_T09,P007,Deployment,0,1,2,4,8,False
+P007_T10,P007,Go Live,0,1,2,3,10,False
+P008_T01,P008,Requirements Gathering,100,2,3,5,0,True
+P008_T02,P008,Solution Design,100,3,5,8,0,True
+P008_T03,P008,Architecture Approval,90,2,4,6,0,True
+P008_T04,P008,Development,60,5,10,15,0,True
+P008_T05,P008,Integration,40,3,5,9,3,False
+P008_T06,P008,Testing,20,2,4,8,5,False
+P008_T07,P008,Security Review,0,2,3,6,4,False
+P008_T08,P008,UAT,0,3,5,7,6,False
+P008_T09,P008,Deployment,0,1,2,4,8,False
+P008_T10,P008,Go Live,0,1,2,3,10,False
+P009_T01,P009,Requirements Gathering,100,2,3,5,0,True
+P009_T02,P009,Solution Design,100,3,5,8,0,True
+P009_T03,P009,Architecture Approval,90,2,4,6,0,True
+P009_T04,P009,Development,60,5,10,15,0,True
+P009_T05,P009,Integration,40,3,5,9,3,False
+P009_T06,P009,Testing,20,2,4,8,5,False
+P009_T07,P009,Security Review,0,2,3,6,4,False
+P009_T08,P009,UAT,0,3,5,7,6,False
+P009_T09,P009,Deployment,0,1,2,4,8,False
+P009_T10,P009,Go Live,0,1,2,3,10,False
+P010_T01,P010,Requirements Gathering,100,2,3,5,0,True
+P010_T02,P010,Solution Design,100,3,5,8,0,True
+P010_T03,P010,Architecture Approval,90,2,4,6,0,True
+P010_T04,P010,Development,60,5,10,15,0,True
+P010_T05,P010,Integration,40,3,5,9,3,False
+P010_T06,P010,Testing,20,2,4,8,5,False
+P010_T07,P010,Security Review,0,2,3,6,4,False
+P010_T08,P010,UAT,0,3,5,7,6,False
+P010_T09,P010,Deployment,0,1,2,4,8,False
+P010_T10,P010,Go Live,0,1,2,3,10,False
+P011_T01,P011,Requirements Gathering,100,2,3,5,0,True
+P011_T02,P011,Solution Design,100,3,5,8,0,True
+P011_T03,P011,Architecture Approval,90,2,4,6,0,True
+P011_T04,P011,Development,60,5,10,15,0,True
+P011_T05,P011,Integration,40,3,5,9,3,False
+P011_T06,P011,Testing,20,2,4,8,5,False
+P011_T07,P011,Security Review,0,2,3,6,4,False
+P011_T08,P011,UAT,0,3,5,7,6,False
+P011_T09,P011,Deployment,0,1,2,4,8,False
+P011_T10,P011,Go Live,0,1,2,3,10,False
+P012_T01,P012,Requirements Gathering,100,2,3,5,0,True
+P012_T02,P012,Solution Design,100,3,5,8,0,True
+P012_T03,P012,Architecture Approval,90,2,4,6,0,True
+P012_T04,P012,Development,60,5,10,15,0,True
+P012_T05,P012,Integration,40,3,5,9,3,False
+P012_T06,P012,Testing,20,2,4,8,5,False
+P012_T07,P012,Security Review,0,2,3,6,4,False
+P012_T08,P012,UAT,0,3,5,7,6,False
+P012_T09,P012,Deployment,0,1,2,4,8,False
+P012_T10,P012,Go Live,0,1,2,3,10,False
+P013_T01,P013,Requirements Gathering,100,2,3,5,0,True
+P013_T02,P013,Solution Design,100,3,5,8,0,True
+P013_T03,P013,Architecture Approval,90,2,4,6,0,True
+P013_T04,P013,Development,60,5,10,15,0,True
+P013_T05,P013,Integration,40,3,5,9,3,False
+P013_T06,P013,Testing,20,2,4,8,5,False
+P013_T07,P013,Security Review,0,2,3,6,4,False
+P013_T08,P013,UAT,0,3,5,7,6,False
+P013_T09,P013,Deployment,0,1,2,4,8,False
+P013_T10,P013,Go Live,0,1,2,3,10,False
+P014_T01,P014,Requirements Gathering,100,2,3,5,0,True
+P014_T02,P014,Solution Design,100,3,5,8,0,True
+P014_T03,P014,Architecture Approval,90,2,4,6,0,True
+P014_T04,P014,Development,60,5,10,15,0,True
+P014_T05,P014,Integration,40,3,5,9,3,False
+P014_T06,P014,Testing,20,2,4,8,5,False
+P014_T07,P014,Security Review,0,2,3,6,4,False
+P014_T08,P014,UAT,0,3,5,7,6,False
+P014_T09,P014,Deployment,0,1,2,4,8,False
+P014_T10,P014,Go Live,0,1,2,3,10,False
+P015_T01,P015,Requirements Gathering,100,2,3,5,0,True
+P015_T02,P015,Solution Design,100,3,5,8,0,True
+P015_T03,P015,Architecture Approval,90,2,4,6,0,True
+P015_T04,P015,Development,60,5,10,15,0,True
+P015_T05,P015,Integration,40,3,5,9,3,False
+P015_T06,P015,Testing,20,2,4,8,5,False
+P015_T07,P015,Security Review,0,2,3,6,4,False
+P015_T08,P015,UAT,0,3,5,7,6,False
+P015_T09,P015,Deployment,0,1,2,4,8,False
+P015_T10,P015,Go Live,0,1,2,3,10,False

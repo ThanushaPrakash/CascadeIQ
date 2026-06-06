@@ -1,0 +1,16 @@
+project_id,project_name,status,start_date,target_date,owner,health_score,client_commitment,sla_date
+P001,Payments API,At Risk,2026-01-01,2026-06-15,Alice Johnson,72,True,2026-06-20
+P002,Mobile App,On Track,2026-01-10,2026-07-01,Bob Smith,85,True,2026-07-05
+P003,Client Demo,At Risk,2026-02-01,2026-06-25,Charlie Davis,65,True,2026-06-25
+P004,Reconciliation System,On Track,2026-01-15,2026-07-10,Diana Miller,80,False,
+P005,Analytics Dashboard,On Track,2026-02-10,2026-07-20,Ethan Wilson,88,False,
+P006,Customer Portal,On Track,2026-01-20,2026-07-15,Fiona Thomas,82,True,2026-07-18
+P007,Reporting Engine,Delayed,2026-02-05,2026-08-01,George Martin,60,False,
+P008,Fraud Detection,At Risk,2026-02-15,2026-08-10,Hannah Lee,68,True,2026-08-15
+P009,Notification Service,On Track,2026-01-25,2026-06-30,Ian Walker,90,False,
+P010,Billing Platform,On Track,2026-01-05,2026-07-05,Julia White,87,True,2026-07-10
+P011,HR Portal,On Track,2026-02-20,2026-08-20,Kevin Hall,84,False,
+P012,Data Warehouse,At Risk,2026-01-12,2026-08-15,Linda Scott,70,True,2026-08-20
+P013,AI Assistant,On Track,2026-03-01,2026-09-01,Michael Green,86,False,
+P014,Compliance System,At Risk,2026-02-25,2026-08-25,Nina Adams,67,True,2026-08-30
+P015,Monitoring Platform,On Track,2026-01-18,2026-07-25,Oliver Brown,89,False,
