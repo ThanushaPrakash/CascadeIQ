@@ -1,1 +1,5 @@
+GITHUB_TOKEN = "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"
 
+OWNER = ThanushaPrakash
+
+REPO = "CascadeIQ"
